@@ -85,6 +85,4 @@ point.distance(point1, point2)
 
 `point.distance()` returns distance in metres.
 
-## Conclusion
 
-Neo4j can store and query geographic data using built-in spatial point support. Location-based queries such as nearest station, nearby offices, and route distance calculation can be implemented directly in Cypher without installing external spatial plugins.
